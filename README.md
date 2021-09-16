@@ -1,3 +1,2 @@
 # Magic-Notes
-you can find my project     <a href=" https://revanthpalukuri.github.io/Magic-Notes/">here</a>
-
+you can find my project https://www.revanthpalukuri.github.io/Magic-Notes
